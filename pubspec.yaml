@@ -1,5 +1,6 @@
 name: hok_regl
-description: HOK Regl - Adet Takvimi (Demo)
+description: HOK Regl Takvimi Uygulaması
+
 publish_to: "none"
 version: 0.0.1
 environment:
